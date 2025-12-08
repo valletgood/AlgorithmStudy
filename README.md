@@ -27,8 +27,9 @@
 
 ### 프로그래머스
 
-| 레벨 | 문제                                                                           |              풀이              | 알고리즘 |
-| :--: | :----------------------------------------------------------------------------- | :----------------------------: | :------- |
-|  3   | [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | [풀이](./PROGRAMMERS/triangle) | DP       |
-|  3   | [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)      | [풀이](./PROGRAMMERS/dpSchool) | DP       |
-|  3   | [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)   |   [풀이](./PROGRAMMERS/work)   | 탐욕법   |
+| 레벨 | 문제                                                                           |               풀이               | 알고리즘 |
+| :--: | :----------------------------------------------------------------------------- | :------------------------------: | :------- |
+|  3   | [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105) |  [풀이](./PROGRAMMERS/triangle)  | DP       |
+|  3   | [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)      |  [풀이](./PROGRAMMERS/dpSchool)  | DP       |
+|  3   | [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)   |    [풀이](./PROGRAMMERS/work)    | 탐욕법   |
+|  3   | [숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)   | [풀이](./PROGRAMMERS/numberGame) | 탐욕법   |
