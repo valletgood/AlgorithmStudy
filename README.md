@@ -33,3 +33,4 @@
 |  3   | [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)      |  [풀이](./PROGRAMMERS/dpSchool)  | DP       |
 |  3   | [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)   |    [풀이](./PROGRAMMERS/work)    | 탐욕법   |
 |  3   | [숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)   | [풀이](./PROGRAMMERS/numberGame) | 탐욕법   |
+|  3   | [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938) |  [풀이](./PROGRAMMERS/bestSet)   | 수학     |
