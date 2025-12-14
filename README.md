@@ -24,6 +24,7 @@
 | 1931  | [회의실 배정](https://www.acmicpc.net/problem/1931)       | [풀이](./BOJ/1931)  | 탐욕법           |
 | 7576  | [토마토](https://www.acmicpc.net/problem/7576)            | [풀이](./BOJ/7576)  | BFS              |
 | 10026 | [적록색약](https://www.acmicpc.net/problem/10026)         | [풀이](./BOJ/10026) | BFS              |
+| 14502 | [연구소](https://www.acmicpc.net/problem/14502)           | [풀이](./BOJ/14502) | 조합, BFS        |
 | 15686 | [치킨 배달](https://www.acmicpc.net/problem/15686)        | [풀이](./BOJ/15686) | 조합, 브루트포스 |
 | 16928 | [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) | [풀이](./BOJ/16928) | BFS              |
 
