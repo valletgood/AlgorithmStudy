@@ -30,12 +30,13 @@
 
 ### 프로그래머스
 
-| 레벨 | 문제                                                                           |               풀이               | 알고리즘 |
-| :--: | :----------------------------------------------------------------------------- | :------------------------------: | :------- |
-|  3   | [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105) |  [풀이](./PROGRAMMERS/triangle)  | DP       |
-|  3   | [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)      |  [풀이](./PROGRAMMERS/dpSchool)  | DP       |
-|  3   | [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)   |    [풀이](./PROGRAMMERS/work)    | 탐욕법   |
-|  3   | [숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)   | [풀이](./PROGRAMMERS/numberGame) | 탐욕법   |
-|  3   | [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938) |  [풀이](./PROGRAMMERS/bestSet)   | 수학     |
-|  3   | [단속 카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884) |   [풀이](./PROGRAMMERS/camera)   | 탐욕법   |
-|  3   | [기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979) |     [풀이](./PROGRAMMERS/bs)     | 탐욕법   |
+| 레벨 | 문제                                                                            |               풀이               | 알고리즘 |
+| :--: | :------------------------------------------------------------------------------ | :------------------------------: | :------- |
+|  3   | [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)  |  [풀이](./PROGRAMMERS/triangle)  | DP       |
+|  3   | [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)       |  [풀이](./PROGRAMMERS/dpSchool)  | DP       |
+|  3   | [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)    |    [풀이](./PROGRAMMERS/work)    | 탐욕법   |
+|  3   | [숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)    | [풀이](./PROGRAMMERS/numberGame) | 탐욕법   |
+|  3   | [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938)  |  [풀이](./PROGRAMMERS/bestSet)   | 수학     |
+|  3   | [단속 카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)  |   [풀이](./PROGRAMMERS/camera)   | 탐욕법   |
+|  3   | [기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979)  |     [풀이](./PROGRAMMERS/bs)     | 탐욕법   |
+|  3   | [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189) |  [풀이](./PROGRAMMERS/farNode)   | BFS      |
