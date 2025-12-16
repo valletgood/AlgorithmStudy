@@ -18,25 +18,26 @@
 
 ### 백준 (BOJ)
 
-| 번호  | 문제                                                      |        풀이         | 알고리즘         |
-| :---: | :-------------------------------------------------------- | :-----------------: | :--------------- |
-| 1074  | [Z](https://www.acmicpc.net/problem/1074)                 | [풀이](./BOJ/1074)  | 분할 정복        |
-| 1931  | [회의실 배정](https://www.acmicpc.net/problem/1931)       | [풀이](./BOJ/1931)  | 탐욕법           |
-| 7576  | [토마토](https://www.acmicpc.net/problem/7576)            | [풀이](./BOJ/7576)  | BFS              |
-| 10026 | [적록색약](https://www.acmicpc.net/problem/10026)         | [풀이](./BOJ/10026) | BFS              |
-| 14502 | [연구소](https://www.acmicpc.net/problem/14502)           | [풀이](./BOJ/14502) | 조합, BFS        |
-| 15686 | [치킨 배달](https://www.acmicpc.net/problem/15686)        | [풀이](./BOJ/15686) | 조합, 브루트포스 |
-| 16928 | [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) | [풀이](./BOJ/16928) | BFS              |
+| 번호  | 문제                                                      |            풀이            | 알고리즘         |
+| :---: | :-------------------------------------------------------- | :------------------------: | :--------------- |
+| 1074  | [Z](https://www.acmicpc.net/problem/1074)                 | [풀이](./BOJ/GOLD_5/1074)  | 분할 정복        |
+| 1759  | [암호 만들기](https://www.acmicpc.net/problem/1759)       | [풀이](./BOJ/GOLD_5/1759)  | 조합, 백트래킹   |
+| 1931  | [회의실 배정](https://www.acmicpc.net/problem/1931)       | [풀이](./BOJ/GOLD_5/1931)  | 탐욕법           |
+| 7576  | [토마토](https://www.acmicpc.net/problem/7576)            | [풀이](./BOJ/GOLD_5/7576)  | BFS              |
+| 10026 | [적록색약](https://www.acmicpc.net/problem/10026)         | [풀이](./BOJ/GOLD_5/10026) | BFS              |
+| 14502 | [연구소](https://www.acmicpc.net/problem/14502)           | [풀이](./BOJ/GOLD_4/14502) | 조합, BFS        |
+| 15686 | [치킨 배달](https://www.acmicpc.net/problem/15686)        | [풀이](./BOJ/GOLD_5/15686) | 조합, 브루트포스 |
+| 16928 | [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) | [풀이](./BOJ/GOLD_5/16928) | BFS              |
 
 ### 프로그래머스
 
-| 레벨 | 문제                                                                            |               풀이               | 알고리즘 |
-| :--: | :------------------------------------------------------------------------------ | :------------------------------: | :------- |
-|  3   | [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)  |  [풀이](./PROGRAMMERS/triangle)  | DP       |
-|  3   | [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)       |  [풀이](./PROGRAMMERS/dpSchool)  | DP       |
-|  3   | [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)    |    [풀이](./PROGRAMMERS/work)    | 탐욕법   |
-|  3   | [숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)    | [풀이](./PROGRAMMERS/numberGame) | 탐욕법   |
-|  3   | [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938)  |  [풀이](./PROGRAMMERS/bestSet)   | 수학     |
-|  3   | [단속 카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)  |   [풀이](./PROGRAMMERS/camera)   | 탐욕법   |
-|  3   | [기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979)  |     [풀이](./PROGRAMMERS/bs)     | 탐욕법   |
-|  3   | [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189) |  [풀이](./PROGRAMMERS/farNode)   | BFS      |
+| 레벨 | 문제                                                                            |                   풀이                   | 알고리즘 |
+| :--: | :------------------------------------------------------------------------------ | :--------------------------------------: | :------- |
+|  3   | [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)  |  [풀이](./PROGRAMMERS/LEVEL_3/triangle)  | DP       |
+|  3   | [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)       |  [풀이](./PROGRAMMERS/LEVEL_3/dpSchool)  | DP       |
+|  3   | [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)    |    [풀이](./PROGRAMMERS/LEVEL_3/work)    | 탐욕법   |
+|  3   | [숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)    | [풀이](./PROGRAMMERS/LEVEL_3/numberGame) | 탐욕법   |
+|  3   | [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938)  |  [풀이](./PROGRAMMERS/LEVEL_3/bestSet)   | 수학     |
+|  3   | [단속 카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)  |   [풀이](./PROGRAMMERS/LEVEL_3/camera)   | 탐욕법   |
+|  3   | [기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979)  |     [풀이](./PROGRAMMERS/LEVEL_3/bs)     | 탐욕법   |
+|  3   | [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189) |  [풀이](./PROGRAMMERS/LEVEL_3/farNode)   | BFS      |
