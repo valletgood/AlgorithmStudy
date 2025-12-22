@@ -47,3 +47,4 @@
 |  3   | [기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979)  |     [풀이](./PROGRAMMERS/LEVEL_3/bs)      | 탐욕법   |
 |  3   | [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189) |   [풀이](./PROGRAMMERS/LEVEL_3/farNode)   | BFS      |
 |  3   | [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)     | [풀이](./PROGRAMMERS/LEVEL_3/travelRoute) | DFS      |
+|  3   | [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)  |   [풀이](./PROGRAMMERS/LEVEL_3/banUser)   | DFS      |
