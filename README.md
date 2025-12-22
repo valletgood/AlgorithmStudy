@@ -18,19 +18,20 @@
 
 ### 백준 (BOJ)
 
-| 번호  | 문제                                                      |            풀이            | 알고리즘         |
-| :---: | :-------------------------------------------------------- | :------------------------: | :--------------- |
-| 1074  | [Z](https://www.acmicpc.net/problem/1074)                 | [풀이](./BOJ/GOLD_5/1074)  | 분할 정복        |
-| 1504  | [특정한 최단 경로](https://www.acmicpc.net/problem/1504)  | [풀이](./BOJ/GOLD_4/1504)  | 다익스트라       |
-| 1753  | [최단경로](https://www.acmicpc.net/problem/1753)          | [풀이](./BOJ/GOLD_4/1753)  | 다익스트라       |
-| 1759  | [암호 만들기](https://www.acmicpc.net/problem/1759)       | [풀이](./BOJ/GOLD_5/1759)  | 조합, 백트래킹   |
-| 1916  | [최소비용 구하기](https://www.acmicpc.net/problem/1916)   | [풀이](./BOJ/GOLD_5/1916)  | 다익스트라       |
-| 1931  | [회의실 배정](https://www.acmicpc.net/problem/1931)       | [풀이](./BOJ/GOLD_5/1931)  | 탐욕법           |
-| 7576  | [토마토](https://www.acmicpc.net/problem/7576)            | [풀이](./BOJ/GOLD_5/7576)  | BFS              |
-| 10026 | [적록색약](https://www.acmicpc.net/problem/10026)         | [풀이](./BOJ/GOLD_5/10026) | BFS              |
-| 14502 | [연구소](https://www.acmicpc.net/problem/14502)           | [풀이](./BOJ/GOLD_4/14502) | 조합, BFS        |
-| 15686 | [치킨 배달](https://www.acmicpc.net/problem/15686)        | [풀이](./BOJ/GOLD_5/15686) | 조합, 브루트포스 |
-| 16928 | [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) | [풀이](./BOJ/GOLD_5/16928) | BFS              |
+| 번호  | 문제                                                       |            풀이            | 알고리즘         |
+| :---: | :--------------------------------------------------------- | :------------------------: | :--------------- |
+| 1074  | [Z](https://www.acmicpc.net/problem/1074)                  | [풀이](./BOJ/GOLD_5/1074)  | 분할 정복        |
+| 1504  | [특정한 최단 경로](https://www.acmicpc.net/problem/1504)   | [풀이](./BOJ/GOLD_4/1504)  | 다익스트라       |
+| 1753  | [최단경로](https://www.acmicpc.net/problem/1753)           | [풀이](./BOJ/GOLD_4/1753)  | 다익스트라       |
+| 1759  | [암호 만들기](https://www.acmicpc.net/problem/1759)        | [풀이](./BOJ/GOLD_5/1759)  | 조합, 백트래킹   |
+| 1916  | [최소비용 구하기](https://www.acmicpc.net/problem/1916)    | [풀이](./BOJ/GOLD_5/1916)  | 다익스트라       |
+| 1931  | [회의실 배정](https://www.acmicpc.net/problem/1931)        | [풀이](./BOJ/GOLD_5/1931)  | 탐욕법           |
+| 7576  | [토마토](https://www.acmicpc.net/problem/7576)             | [풀이](./BOJ/GOLD_5/7576)  | BFS              |
+| 10026 | [적록색약](https://www.acmicpc.net/problem/10026)          | [풀이](./BOJ/GOLD_5/10026) | BFS              |
+| 11779 | [최소비용 구하기 2](https://www.acmicpc.net/problem/11779) | [풀이](./BOJ/GOLD_3/11779) | 다익스트라       |
+| 14502 | [연구소](https://www.acmicpc.net/problem/14502)            | [풀이](./BOJ/GOLD_4/14502) | 조합, BFS        |
+| 15686 | [치킨 배달](https://www.acmicpc.net/problem/15686)         | [풀이](./BOJ/GOLD_5/15686) | 조합, 브루트포스 |
+| 16928 | [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)  | [풀이](./BOJ/GOLD_5/16928) | BFS              |
 
 ### 프로그래머스
 
