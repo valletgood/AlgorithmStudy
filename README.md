@@ -27,6 +27,7 @@
 | 1916  | [최소비용 구하기](https://www.acmicpc.net/problem/1916)    | [풀이](./BOJ/GOLD_5/1916)  | 다익스트라       |
 | 1931  | [회의실 배정](https://www.acmicpc.net/problem/1931)        | [풀이](./BOJ/GOLD_5/1931)  | 탐욕법           |
 | 7576  | [토마토](https://www.acmicpc.net/problem/7576)             | [풀이](./BOJ/GOLD_5/7576)  | BFS              |
+| 9251  | [LCS](https://www.acmicpc.net/problem/9251)                | [풀이](./BOJ/GOLD_5/9251)  | DP               |
 | 10026 | [적록색약](https://www.acmicpc.net/problem/10026)          | [풀이](./BOJ/GOLD_5/10026) | BFS              |
 | 11779 | [최소비용 구하기 2](https://www.acmicpc.net/problem/11779) | [풀이](./BOJ/GOLD_3/11779) | 다익스트라       |
 | 14502 | [연구소](https://www.acmicpc.net/problem/14502)            | [풀이](./BOJ/GOLD_4/14502) | 조합, BFS        |
