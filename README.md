@@ -30,6 +30,7 @@
 | 9251  | [LCS](https://www.acmicpc.net/problem/9251)                | [풀이](./BOJ/GOLD_5/9251)  | DP               |
 | 10026 | [적록색약](https://www.acmicpc.net/problem/10026)          | [풀이](./BOJ/GOLD_5/10026) | BFS              |
 | 11779 | [최소비용 구하기 2](https://www.acmicpc.net/problem/11779) | [풀이](./BOJ/GOLD_3/11779) | 다익스트라       |
+| 12865 | [평범한 배낭](https://www.acmicpc.net/problem/12865)       | [풀이](./BOJ/GOLD_5/12865) | DP               |
 | 14502 | [연구소](https://www.acmicpc.net/problem/14502)            | [풀이](./BOJ/GOLD_4/14502) | 조합, BFS        |
 | 15686 | [치킨 배달](https://www.acmicpc.net/problem/15686)         | [풀이](./BOJ/GOLD_5/15686) | 조합, 브루트포스 |
 | 16928 | [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)  | [풀이](./BOJ/GOLD_5/16928) | BFS              |
