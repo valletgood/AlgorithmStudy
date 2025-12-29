@@ -22,6 +22,7 @@
 | :---: | :--------------------------------------------------------- | :------------------------: | :--------------- |
 | 1074  | [Z](https://www.acmicpc.net/problem/1074)                  | [풀이](./BOJ/GOLD_5/1074)  | 분할 정복        |
 | 1238  | [파티](https://www.acmicpc.net/problem/1238)               | [풀이](./BOJ/GOLD_3/1238)  | 다익스트라       |
+| 1520  | [내리막 길](https://www.acmicpc.net/problem/1520)          | [풀이](./BOJ/GOLD_3/1520)  | DFS, DP          |
 | 1504  | [특정한 최단 경로](https://www.acmicpc.net/problem/1504)   | [풀이](./BOJ/GOLD_4/1504)  | 다익스트라       |
 | 2206  | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | [풀이](./BOJ/GOLD_3/2206)  | BFS              |
 | 1753  | [최단경로](https://www.acmicpc.net/problem/1753)           | [풀이](./BOJ/GOLD_4/1753)  | 다익스트라       |
