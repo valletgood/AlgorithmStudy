@@ -36,6 +36,7 @@
 | 11779 | [최소비용 구하기 2](https://www.acmicpc.net/problem/11779) | [풀이](./BOJ/GOLD_3/11779) | 다익스트라       |
 | 12865 | [평범한 배낭](https://www.acmicpc.net/problem/12865)       | [풀이](./BOJ/GOLD_5/12865) | DP               |
 | 14502 | [연구소](https://www.acmicpc.net/problem/14502)            | [풀이](./BOJ/GOLD_4/14502) | 조합, BFS        |
+| 14503 | [로봇 청소기](https://www.acmicpc.net/problem/14503)       | [풀이](./BOJ/GOLD_5/14503) | 시뮬레이션       |
 | 15686 | [치킨 배달](https://www.acmicpc.net/problem/15686)         | [풀이](./BOJ/GOLD_5/15686) | 조합, 브루트포스 |
 | 16928 | [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)  | [풀이](./BOJ/GOLD_5/16928) | BFS              |
 | 17070 | [파이프 옮기기 1](https://www.acmicpc.net/problem/17070)   | [풀이](./BOJ/GOLD_5/17070) | DP               |
