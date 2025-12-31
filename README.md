@@ -35,6 +35,7 @@
 | 7576  | [토마토](https://www.acmicpc.net/problem/7576)             | [풀이](./BOJ/GOLD_5/7576)  | BFS              |
 | 9251  | [LCS](https://www.acmicpc.net/problem/9251)                | [풀이](./BOJ/GOLD_5/9251)  | DP               |
 | 10026 | [적록색약](https://www.acmicpc.net/problem/10026)          | [풀이](./BOJ/GOLD_5/10026) | BFS              |
+| 11404 | [플로이드](https://www.acmicpc.net/problem/11404)          | [풀이](./BOJ/GOLD_4/11404) | 다익스트라       |
 | 11779 | [최소비용 구하기 2](https://www.acmicpc.net/problem/11779) | [풀이](./BOJ/GOLD_3/11779) | 다익스트라       |
 | 12851 | [숨바꼭질 2](https://www.acmicpc.net/problem/12851)        | [풀이](./BOJ/GOLD_4/12851) | BFS              |
 | 12865 | [평범한 배낭](https://www.acmicpc.net/problem/12865)       | [풀이](./BOJ/GOLD_5/12865) | DP               |
