@@ -26,6 +26,7 @@
 | 1520  | [내리막 길](https://www.acmicpc.net/problem/1520)          | [풀이](./BOJ/GOLD_3/1520)  | DFS, DP          |
 | 1504  | [특정한 최단 경로](https://www.acmicpc.net/problem/1504)   | [풀이](./BOJ/GOLD_4/1504)  | 다익스트라       |
 | 2206  | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | [풀이](./BOJ/GOLD_3/2206)  | BFS              |
+| 2252  | [줄 세우기](https://www.acmicpc.net/problem/2252)          | [풀이](./BOJ/GOLD_3/2252)  | 위상 정렬        |
 | 2467  | [용액](https://www.acmicpc.net/problem/2467)               | [풀이](./BOJ/GOLD_5/2467)  | 투 포인터        |
 | 1753  | [최단경로](https://www.acmicpc.net/problem/1753)           | [풀이](./BOJ/GOLD_4/1753)  | 다익스트라       |
 | 1759  | [암호 만들기](https://www.acmicpc.net/problem/1759)        | [풀이](./BOJ/GOLD_5/1759)  | 조합, 백트래킹   |
