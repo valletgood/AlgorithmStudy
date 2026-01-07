@@ -47,6 +47,7 @@
 | 12865 | [평범한 배낭](https://www.acmicpc.net/problem/12865)                  | [풀이](./BOJ/GOLD_5/12865) | DP               |
 | 13549 | [숨바꼭질 3](https://www.acmicpc.net/problem/13549)                   | [풀이](./BOJ/GOLD_5/13549) | 다익스트라       |
 | 14002 | [가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002) | [풀이](./BOJ/GOLD_4/14002) | DP               |
+| 14890 | [경사로](https://www.acmicpc.net/problem/14890)                       | [풀이](./BOJ/GOLD_3/14890) | 시뮬레이션       |
 | 14502 | [연구소](https://www.acmicpc.net/problem/14502)                       | [풀이](./BOJ/GOLD_4/14502) | 조합, BFS        |
 | 14503 | [로봇 청소기](https://www.acmicpc.net/problem/14503)                  | [풀이](./BOJ/GOLD_5/14503) | 시뮬레이션       |
 | 15686 | [치킨 배달](https://www.acmicpc.net/problem/15686)                    | [풀이](./BOJ/GOLD_5/15686) | 조합, 브루트포스 |
