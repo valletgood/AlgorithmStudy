@@ -44,6 +44,7 @@
 | 1987  | [알파벳](https://www.acmicpc.net/problem/1987)                        | [풀이](./BOJ/GOLD_4/1987)  | DFS, 비트마스킹  |
 | 7576  | [토마토](https://www.acmicpc.net/problem/7576)                        | [풀이](./BOJ/GOLD_5/7576)  | BFS              |
 | 9251  | [LCS](https://www.acmicpc.net/problem/9251)                           | [풀이](./BOJ/GOLD_5/9251)  | DP               |
+| 9935  | [문자열 폭발](https://www.acmicpc.net/problem/9935)                   | [풀이](./BOJ/GOLD_4/9935)  | 스택             |
 | 10026 | [적록색약](https://www.acmicpc.net/problem/10026)                     | [풀이](./BOJ/GOLD_5/10026) | BFS              |
 | 11054 | [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)   | [풀이](./BOJ/GOLD_4/11054) | DP               |
 | 11404 | [플로이드](https://www.acmicpc.net/problem/11404)                     | [풀이](./BOJ/GOLD_4/11404) | 다익스트라       |
