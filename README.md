@@ -61,6 +61,7 @@
 | 15686 | [치킨 배달](https://www.acmicpc.net/problem/15686)                    | [풀이](./BOJ/GOLD_5/15686) | 조합, 브루트포스 |
 | 16928 | [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)             | [풀이](./BOJ/GOLD_5/16928) | BFS              |
 | 17070 | [파이프 옮기기 1](https://www.acmicpc.net/problem/17070)              | [풀이](./BOJ/GOLD_5/17070) | DP               |
+| 17144 | [미세먼지 안녕!](https://www.acmicpc.net/problem/17144)               | [풀이](./BOJ/GOLD_4/17144) | 시뮬레이션       |
 | 17298 | [오큰수](https://www.acmicpc.net/problem/17298)                       | [풀이](./BOJ/GOLD_4/17298) | 스택             |
 
 ### 프로그래머스
