@@ -25,6 +25,7 @@
 | 1107  | [리모컨](https://www.acmicpc.net/problem/1107)                        | [풀이](./BOJ/GOLD_4/1107)  | 브루트포스       |
 | 1238  | [파티](https://www.acmicpc.net/problem/1238)                          | [풀이](./BOJ/GOLD_3/1238)  | 다익스트라       |
 | 1520  | [내리막 길](https://www.acmicpc.net/problem/1520)                     | [풀이](./BOJ/GOLD_3/1520)  | DFS, DP          |
+| 1644  | [소수의 연속합](https://www.acmicpc.net/problem/1644)                 | [풀이](./BOJ/GOLD_3/1644)  | 투 포인터        |
 | 1504  | [특정한 최단 경로](https://www.acmicpc.net/problem/1504)              | [풀이](./BOJ/GOLD_4/1504)  | 다익스트라       |
 | 1715  | [카드 정렬하기](https://www.acmicpc.net/problem/1715)                 | [풀이](./BOJ/GOLD_4/1715)  | 탐욕법, 힙       |
 | 2206  | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)            | [풀이](./BOJ/GOLD_3/2206)  | BFS              |
