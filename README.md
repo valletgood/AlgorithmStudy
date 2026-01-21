@@ -42,6 +42,7 @@
 | 1806  | [부분합](https://www.acmicpc.net/problem/1806)                        | [풀이](./BOJ/GOLD_4/1806)  | 투 포인터        |
 | 1759  | [암호 만들기](https://www.acmicpc.net/problem/1759)                   | [풀이](./BOJ/GOLD_5/1759)  | 조합, 백트래킹   |
 | 1916  | [최소비용 구하기](https://www.acmicpc.net/problem/1916)               | [풀이](./BOJ/GOLD_5/1916)  | 다익스트라       |
+| 1922  | [네트워크 연결](https://www.acmicpc.net/problem/1922)                 | [풀이](./BOJ/GOLD_4/1922)  | MST, Prim        |
 | 1931  | [회의실 배정](https://www.acmicpc.net/problem/1931)                   | [풀이](./BOJ/GOLD_5/1931)  | 탐욕법           |
 | 1967  | [트리의 지름](https://www.acmicpc.net/problem/1967)                   | [풀이](./BOJ/GOLD_4/1967)  | DFS              |
 | 1976  | [여행 가자](https://www.acmicpc.net/problem/1976)                     | [풀이](./BOJ/GOLD_4/1976)  | DFS              |
