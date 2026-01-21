@@ -44,6 +44,7 @@
 | 1916  | [최소비용 구하기](https://www.acmicpc.net/problem/1916)               | [풀이](./BOJ/GOLD_5/1916)  | 다익스트라       |
 | 1931  | [회의실 배정](https://www.acmicpc.net/problem/1931)                   | [풀이](./BOJ/GOLD_5/1931)  | 탐욕법           |
 | 1967  | [트리의 지름](https://www.acmicpc.net/problem/1967)                   | [풀이](./BOJ/GOLD_4/1967)  | DFS              |
+| 1976  | [여행 가자](https://www.acmicpc.net/problem/1976)                     | [풀이](./BOJ/GOLD_4/1976)  | DFS              |
 | 1987  | [알파벳](https://www.acmicpc.net/problem/1987)                        | [풀이](./BOJ/GOLD_4/1987)  | DFS, 비트마스킹  |
 | 7576  | [토마토](https://www.acmicpc.net/problem/7576)                        | [풀이](./BOJ/GOLD_5/7576)  | BFS              |
 | 9251  | [LCS](https://www.acmicpc.net/problem/9251)                           | [풀이](./BOJ/GOLD_5/9251)  | DP               |
