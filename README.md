@@ -24,6 +24,7 @@
 | 1043  | [거짓말](https://www.acmicpc.net/problem/1043)                        | [풀이](./BOJ/GOLD_4/1043)  | DFS              |
 | 1074  | [Z](https://www.acmicpc.net/problem/1074)                             | [풀이](./BOJ/GOLD_5/1074)  | 분할 정복        |
 | 1107  | [리모컨](https://www.acmicpc.net/problem/1107)                        | [풀이](./BOJ/GOLD_4/1107)  | 브루트포스       |
+| 1197  | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197)              | [풀이](./BOJ/GOLD_4/1197)  | MST, Prim        |
 | 1238  | [파티](https://www.acmicpc.net/problem/1238)                          | [풀이](./BOJ/GOLD_3/1238)  | 다익스트라       |
 | 1520  | [내리막 길](https://www.acmicpc.net/problem/1520)                     | [풀이](./BOJ/GOLD_3/1520)  | DFS, DP          |
 | 1644  | [소수의 연속합](https://www.acmicpc.net/problem/1644)                 | [풀이](./BOJ/GOLD_3/1644)  | 투 포인터        |
