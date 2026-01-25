@@ -38,6 +38,7 @@
 | 2493  | [탑](https://www.acmicpc.net/problem/2493)                            | [풀이](./BOJ/GOLD_5/2493)  | 스택             |
 | 2565  | [전깃줄](https://www.acmicpc.net/problem/2565)                        | [풀이](./BOJ/GOLD_5/2565)  | DP, LIS          |
 | 2573  | [빙산](https://www.acmicpc.net/problem/2573)                          | [풀이](./BOJ/GOLD_4/2573)  | 시뮬레이션, DFS  |
+| 2636  | [치즈](https://www.acmicpc.net/problem/2636)                          | [풀이](./BOJ/GOLD_4/2636)  | 시뮬레이션, BFS  |
 | 3190  | [뱀](https://www.acmicpc.net/problem/3190)                            | [풀이](./BOJ/GOLD_4/3190)  | 시뮬레이션       |
 | 1753  | [최단경로](https://www.acmicpc.net/problem/1753)                      | [풀이](./BOJ/GOLD_4/1753)  | 다익스트라       |
 | 1806  | [부분합](https://www.acmicpc.net/problem/1806)                        | [풀이](./BOJ/GOLD_4/1806)  | 투 포인터        |
