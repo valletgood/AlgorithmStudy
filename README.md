@@ -29,6 +29,7 @@
 | 1644  | [소수의 연속합](https://www.acmicpc.net/problem/1644)                 | [풀이](./BOJ/GOLD_3/1644)  | 투 포인터        |
 | 1504  | [특정한 최단 경로](https://www.acmicpc.net/problem/1504)              | [풀이](./BOJ/GOLD_4/1504)  | 다익스트라       |
 | 1715  | [카드 정렬하기](https://www.acmicpc.net/problem/1715)                 | [풀이](./BOJ/GOLD_4/1715)  | 탐욕법, 힙       |
+| 2133  | [타일 채우기](https://www.acmicpc.net/problem/2133)                   | [풀이](./BOJ/GOLD_4/2133)  | DP               |
 | 2206  | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)            | [풀이](./BOJ/GOLD_3/2206)  | BFS              |
 | 2252  | [줄 세우기](https://www.acmicpc.net/problem/2252)                     | [풀이](./BOJ/GOLD_3/2252)  | 위상 정렬        |
 | 2293  | [동전 1](https://www.acmicpc.net/problem/2293)                        | [풀이](./BOJ/GOLD_4/2293)  | DP               |
