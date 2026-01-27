@@ -26,6 +26,7 @@
 | 1107  | [리모컨](https://www.acmicpc.net/problem/1107)                        | [풀이](./BOJ/GOLD_4/1107)  | 브루트포스       |
 | 1197  | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197)              | [풀이](./BOJ/GOLD_4/1197)  | MST, Prim        |
 | 1238  | [파티](https://www.acmicpc.net/problem/1238)                          | [풀이](./BOJ/GOLD_3/1238)  | 다익스트라       |
+| 1261  | [알고스팟](https://www.acmicpc.net/problem/1261)                      | [풀이](./BOJ/GOLD_4/1261)  | 다익스트라       |
 | 1520  | [내리막 길](https://www.acmicpc.net/problem/1520)                     | [풀이](./BOJ/GOLD_3/1520)  | DFS, DP          |
 | 1644  | [소수의 연속합](https://www.acmicpc.net/problem/1644)                 | [풀이](./BOJ/GOLD_3/1644)  | 투 포인터        |
 | 1504  | [특정한 최단 경로](https://www.acmicpc.net/problem/1504)              | [풀이](./BOJ/GOLD_4/1504)  | 다익스트라       |
